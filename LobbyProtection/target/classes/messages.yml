@@ -1,0 +1,7 @@
+messages:
+  block_break: "§c¡No puedes romper bloques en el área protegida!"  # Rojo
+  block_place: "§e¡No puedes colocar bloques en el área protegida!"  # Amarillo
+  bucket_empty: "§b¡No puedes vaciar líquidos en el área protegida!" # Azul claro
+  use_flinsteel: "§6¡No puedes usar mecheros en el área protegida!"  # Naranja
+  pvp_disabled: "§4¡No puedes atacar a otros jugadores en el área protegida!"  # Rojo oscuro
+  default: "§7¡Acción no permitida en el área protegida!"  # Gris

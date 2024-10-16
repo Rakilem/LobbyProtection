@@ -1,0 +1,24 @@
+protected-areas:
+  - name: lobby1
+    world: "world"
+    corner1:
+      x: 100
+      y: 1
+      z: 100
+    corner2:
+      x: -100
+      y: 256
+      z: -100
+  - name: lobby2
+    world: "nether"
+    corner1:
+      x: 100
+      y: 1
+      z: 100
+    corner2:
+      x: -100
+      y: 256
+      z: -100
+
+exempt-players:
+  - "Rakilem YT"
